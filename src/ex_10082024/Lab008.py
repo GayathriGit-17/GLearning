@@ -13,7 +13,7 @@ print(keyword.kwlist)
     # a. int
     # b.float
     #c. complex - i - iota eg 1+2j --> j=root of -1 --> used in machine learning
-    #d.Boolean -->True or false
+    #d.Bool -->True or false
 # 2. String
     # a.str
     # b. bunch of char --> G,A,Y,A,T,H,R,I --> Gayathri
@@ -29,10 +29,10 @@ print(keyword.kwlist)
      # _ can be used as a variable name , should start with "_" or " Alphabets (small or caps) and include numbers in mid or end
 
 
-     _=45 #valid
-     _Gayathri=67 # valid
-
-     print(type(_))
-     a,b,c=45,67,89
-     print(a,b,c)
+   #  _=45 #valid
+    # _Gayathri=67 # valid
+#
+ #    print(type(_))
+  #   a,b,c=45,67,89
+   #  print(a,b,c)
 
