@@ -26,13 +26,7 @@ print(f"{table} * 10 = {table * 10 }")
 
 number1 = int(input("Enter your number 1"))
 number2 = int(input("Enter your number 2"))
-"""
-number1_type= (type(number1))
-if number1_type == int :
-    print("INT")
-else :
-    print("None")
-"""
+
 max_value =max(number1,number2)
 Power_value = pow(number1,number2)
 usum= number1 + number2
